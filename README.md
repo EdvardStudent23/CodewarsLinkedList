@@ -1,0 +1,2 @@
+# CodewarsLinkedList
+Завдання з ОП
